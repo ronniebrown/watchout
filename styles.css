@@ -1,7 +1,23 @@
-/* your beautiful css styling goes here! */
-
-/* Note: an asteroid image is included in this repo.
-Feel free to use it if you like. */
+.scoreboard {
+  background: white;
+  border: 1px solid black;
+  width: 99%;
+  padding: 5px;
+}
+.highscore {
+  width: 33%;
+  position: relative;
+}
+.current {
+  width: 300px;
+  position: relative;
+}
+.collisions{
+  width: 300px;
+  position: relative;
+}
 .gameboard {
-  background-color: grey;
+  margin: 20px;
+  background: black;
+  width: 99%;
 }
